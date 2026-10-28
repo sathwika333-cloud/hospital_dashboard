@@ -33,7 +33,7 @@ viii.Payment Status
 
 #Dashboard Preview
 
-![Hospital Management Dashboard](hospital%20management%20dashboard.png)
+![Hospital Management Dashboard](hospital%20dashboard%20upd.png)
 
 #Key Observations
 
