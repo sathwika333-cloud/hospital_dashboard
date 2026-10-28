@@ -33,6 +33,8 @@ viii.Payment Status
 
 #Dashboard Preview
 
+![Hospital Management Dashboard](hospital%20management%20dashboard.png)
+
 #Key Observations
 
 i.Total patients: 20
